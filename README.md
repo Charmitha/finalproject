@@ -1,3 +1,3 @@
-# finalproject
+# EarthCool
 This is my Final Project 
-# azure link https://nice-tree-09624aa10.1.azurestaticapps.net
+# link : http://127.0.0.1:5500/index.html
